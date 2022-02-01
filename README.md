@@ -1,0 +1,2 @@
+# SolojQuery
+ Sololearn jQuery Course
